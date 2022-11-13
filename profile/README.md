@@ -2,7 +2,7 @@
 
 SIT-board 是一个开源的协作式共享白板，同时也可以当作方便的离线白板来使用。
 
-可从https://www.bilibili.com/video/BV1Wd4y1b7rc/ 观看SIT-board的功能介绍。
+[点击我，观看SIT-board的功能介绍。](https://www.bilibili.com/video/BV1Wd4y1b7rc/)
 
 组织中目前有三个仓库，分别如下：
 
